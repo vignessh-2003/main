@@ -1,4 +1,3 @@
-# main
 <h1 align="center">Hi 👋, I'm VIGNESSH</h1>
 <h3 align="center">A versatile computer science student with a background in DevOps and certifications in AWS and Google Cloud, I am enthusiastic about exploring new domains and leveraging my adaptable skills in a diverse professional setting. Through hands-on experience in Ansible, Jenkins, Apache, and Bash scripting during my internship, I have demonstrated proficiency in automating deployment processes and optimizing infrastructure management. Certified in AWS and Google Cloud, I bring a solid foundation in cloud computing and a readiness to apply these skills across various domains. Eager to embrace new challenges and contribute to innovative projects, I am seeking a role or internship where I can continuously learn and grow while making impactful contributions to the team.</h3>
 
